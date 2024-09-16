@@ -49,6 +49,17 @@ while True:
     FORCE_SUB[FORCE_SUB_COUNTER] = int(value)
     FORCE_SUB_COUNTER += 1
 
+# ID dari Channel Atau Group Untuk Wajib Subscribenya
+FORCE_SUB = {}
+FORCE_SUB_COUNTER = 2
+while True:
+    key = f"FORCE_SUB{FORCE_SUB_COUNTER}"
+    value = os.environ.get(key)
+    if value is None:
+        break
+    FORCE_SUB[FORCE_SUB_COUNTER] = int(value)
+    FORCE_SUB_COUNTER += 2
+
 # Berapa baris maunya
 BUTTONS_PER_ROW = int(os.environ.get("BUTTONS_PER_ROW", "3"))
 
