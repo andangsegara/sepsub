@@ -85,13 +85,13 @@ class Bot(Client):
                 f"Pastikan @{self.username} adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Nonton Youtube untuk Bantuan"
+                "Bot ga nyala bree. Nonton Youtube untuk Bantuan"
             )
             sys.exit()
 
         self.set_parse_mode(enums.ParseMode.HTML)
         self.LOGGER(__name__).info(
-            f"[🔥 MENYALA ABANGKU! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Nonton Youtube"
+            f"[🔥 ANJAYYY NYALA BOT NYA BREE! 🔥]\n\nBOT Dientot sama @{OWNER}\nKalo belum jalan bot nya sabar ya..., Tutor lagi di Youtube"
         )
 
     async def stop(self, *args):
