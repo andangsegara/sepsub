@@ -1,11 +1,11 @@
-# Fsub
+# Force_Sub ChanNel PREMIUM
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
 <img src="https://kutmut.my.id/logop.png">
 
 
-### Setup Repo ini join 4 ch ngentod
+### Setup Repo ini unlimeted button 
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
@@ -22,10 +22,10 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/altercodes/Fsubs
+git clone https://github.com/andangsegara/fsubprem (nama file lu)
 ````
 ````bash
-cd Fsubs
+cd (nama file lu)
 ````
 ````bash
 pip3 install -r requirements.txt
@@ -62,10 +62,9 @@ python3 main.py
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]
 * `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#start_message'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
-* `FORCE_SUB1` Masukan ID dari Channel Untuk Wajib Subscribenya
-* `FORCE_SUB2` Masukan ID dari Channel Untuk Wajib Subscribenya
-* `FORCE_SUB3` Masukan ID dari Channel Untuk Wajib Subscribenya
-* `FORCE_SUB4` Masukan ID dari Channel Untuk Wajib Subscribenya
+* `FORCE_SUB` Masukan ID dari Channel Untuk Wajib Subscribenya 
+# TINGGAL TAMBAHIN SESUKA HATI LU MAU PAKE BERAPA FORCE_SUB
+
 ### Extra Variables
 
 * `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
@@ -79,12 +78,6 @@ python3 main.py
 * `{id}` - User ID
 * `{mention}` - Mention the user
 * `{username}` - Username
-
-#### CUSTOM_CAPTION
-
-* `{filename}` - file name of the Document
-* `{previouscaption}` - Original Caption
-
 
 ## Support   
 Bergabunglah di [Group Telegram ](https://www.telegram.dog/slut_id) Untuk Dukungan/Bantuan [Kyu](https://www.telegram.dog/sayakyu) untu info Update bot.   
