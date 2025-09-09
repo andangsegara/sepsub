@@ -1,4 +1,4 @@
-# Force_Sub ChanNel PREMIUM
+# Force_Sub Channel PREMIUM
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
