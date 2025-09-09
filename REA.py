@@ -44,6 +44,6 @@ class Data:
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
 
 
- • Ingin membuat Bot seperti ini chat @blacky0uth
-👨‍💻 Develoved by </b><a href='https://t.me/blacky0uth'>sep'</a>
+ • Ingin membuat Bot seperti ini chat @gbtyakmu
+💻 Customized by </b><a href='https://t.me/gbtyakmu'>` ᴋᴀʟᴇᴇ⸸</a>
 """
